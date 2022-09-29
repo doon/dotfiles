@@ -6,6 +6,14 @@
 
 - link:
     ~/.config/nvim: nvim
+    ~/.zlogin: prezto/runcoms/zlogin
+    ~/.zlogout: prezto/runcoms/zlogout
+    ~/.zpreztorc: prezto/runcoms/zpreztorc
+    ~/.zprofile: prezto/runcoms/zprofile
+    ~/.zshenv: prezto/runcoms/zshenv
+    ~/.zshrc: zsh/zshrc
+    ~/.zprezto: prezto
+    ~/.p10k.zsh: powerlevel10k/p10k.zsh
 
 - create:
     - ~/.local/bin
